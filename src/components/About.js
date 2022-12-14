@@ -7,7 +7,7 @@ export default function About(props) {
                 <h2 className="my-3 text-center">About App</h2>
                 <p>
                     This is a simple <strong>Text Utility</strong> web application made using Reactjs <br />
-                    You can use this text utility to count the words and characters in your text or to enhance your text by converting it to uppercase from lowercase,from lowercase to uppercase,replicate the text,
+                    You can use this text utility to count the words and characters in your text or to enhance your text by converting it to uppercase from lowercase,from lowercase to uppercase,replicate the text and invert text.
                     <br /><br />
                     This application has four modes <br /><br />
                     - Light Mode <br />
