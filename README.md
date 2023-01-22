@@ -1,31 +1,27 @@
-# Getting Started with Create React App
+# The Site is live at : https://textutils-by-aditya-mishra.netlify.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This site was created with Reactjs,Bootstrap and ❤️
+This web app is useful for text formatting as it provides basic features like
+- Transform text to uppercase.
+- Transform text to lowercase.
+- Replicate text.
+- Invert text i.e. change lowercase letters to uppercase and vice-versa.
 
-## Available Scripts
+Along with these features the app can be viewed in three different modes 
+- Light Mode
+- Blue Dark Mode
+- Green Dark Mode
 
-In the project directory, you can run:
+## Here are some snapshots of the app
 
-### `npm start`
+- Site in Light Mode
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img width="1439" alt="Screenshot 2023-01-22 at 11 54 47 AM" src="https://user-images.githubusercontent.com/112647556/213903625-234e187c-3db8-484e-ae6a-b6dcd3d3591a.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Site in Blue Dark Mode
 
-### `npm test`
+<img width="1439" alt="Screenshot 2023-01-22 at 11 54 56 AM" src="https://user-images.githubusercontent.com/112647556/213903812-9f0284de-c058-4a54-a215-85348dd81060.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Site in Green Dark Mode
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+<img width="1439" alt="Screenshot 2023-01-22 at 11 55 02 AM" src="https://user-images.githubusercontent.com/112647556/213903840-695ddb84-5b32-463f-97dc-f5378580b3d1.png">
